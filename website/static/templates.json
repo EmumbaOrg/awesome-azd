@@ -1,5 +1,31 @@
 [
   {
+    "title": "Starter - Bicep",
+    "description": "A starter template with Bicep as infrastructure provider",
+    "preview": "./templates/images/test.png",
+    "authorUrl": "https://github.com/Azure/azure-dev",
+    "author": "Azure Dev",
+    "source": "https://github.com/Azure-Samples/azd-starter-bicep",
+    "tags": [
+      "bicep",
+      "msft"
+    ],
+    "id": "99c380c4-915a-41b2-9517-45ed63d7ef7f"
+  },
+  {
+    "title": "Starter - Terraform",
+    "description": "A starter template with Terraform as infrastructure provider",
+    "preview": "./templates/images/test.png",
+    "authorUrl": "https://github.com/Azure/azure-dev",
+    "author": "Azure Dev",
+    "source": "https://github.com/Azure-Samples/azd-starter-terraform",
+    "tags": [
+      "terraform",
+      "msft"
+    ],
+    "id": "23ccf0c3-8850-4593-805e-6a0fd42c1093"
+  },
+  {
     "title": "PostgreSQL Invoice Pilot with Azure AI",
     "description": "A comprehensive solution combining PostgreSQL with Azure AI services for document intelligence, featuring invoice/SOW validation, semantic search, and AI-powered analytics with a React frontend.",
     "preview": "./templates/images/postgresql-invoice-pilot-azure-ai.png",
@@ -32,32 +58,6 @@
         "azure-container-registry"
     ],
     "id":"71955020-20f9-43de-b00a-b33c652cbfff"
-  },
-  {
-    "title": "Starter - Bicep",
-    "description": "A starter template with Bicep as infrastructure provider",
-    "preview": "./templates/images/test.png",
-    "authorUrl": "https://github.com/Azure/azure-dev",
-    "author": "Azure Dev",
-    "source": "https://github.com/Azure-Samples/azd-starter-bicep",
-    "tags": [
-      "bicep",
-      "msft"
-    ],
-    "id": "99c380c4-915a-41b2-9517-45ed63d7ef7f"
-  },
-  {
-    "title": "Starter - Terraform",
-    "description": "A starter template with Terraform as infrastructure provider",
-    "preview": "./templates/images/test.png",
-    "authorUrl": "https://github.com/Azure/azure-dev",
-    "author": "Azure Dev",
-    "source": "https://github.com/Azure-Samples/azd-starter-terraform",
-    "tags": [
-      "terraform",
-      "msft"
-    ],
-    "id": "23ccf0c3-8850-4593-805e-6a0fd42c1093"
   },
   {
     "title": "WordPress with Azure Container Apps",
