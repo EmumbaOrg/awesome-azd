@@ -31,7 +31,7 @@
     "preview": "./templates/images/postgresql-invoice-pilot-azure-ai.png",
     "authorUrl": "https://github.com/EmumbaOrg",
     "author": "Emumba",
-    "source": "Add-link-of-repo-here",
+    "source": "https://github.com/azure-samples/postgres-invoice-pilot",
     "tags": [
         "bicep",
         "postgresql",
