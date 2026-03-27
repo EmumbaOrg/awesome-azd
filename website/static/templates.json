@@ -26,6 +26,40 @@
     "id": "23ccf0c3-8850-4593-805e-6a0fd42c1093"
   },
   {
+    "title": "PostgreSQL Invoice Pilot with Azure AI",
+    "description": "A comprehensive solution combining PostgreSQL with Azure AI services for document intelligence, featuring invoice/SOW validation, semantic search, and AI-powered analytics with a React frontend.",
+    "preview": "./templates/images/postgresql-invoice-pilot-azure-ai.png",
+    "authorUrl": "https://github.com/EmumbaOrg",
+    "author": "Emumba",
+    "source": "https://github.com/azure-samples/postgres-invoice-pilot",
+    "tags": [
+        "bicep",
+        "postgresql",
+        "ai",
+        "document-intelligence",
+        "semantic-search",
+        "community",
+        "new"
+    ],
+    "languages": [
+        "python",
+        "javascript",
+        "typescript"
+    ],
+    "services": [
+        "azure-postgresql",
+        "azure-openai",
+        "azure-cognitive-services",
+        "azure-document-intelligence",
+        "azure-container-apps",
+        "azure-storage",
+        "azure-app-configuration",
+        "azure-key-vault",
+        "azure-container-registry"
+    ],
+    "id":"71955020-20f9-43de-b00a-b33c652cbfff"
+  },
+  {
     "title": "WordPress with Azure Container Apps",
     "description": "A blueprint to easily and quickly create and deploy your first scalable and secure WordPress site to Azure, leveraging Azure Container Apps with Azure Database for MariaDb.",
     "preview": "./templates/images/apptemplate-wordpress-on-ACA.png",
